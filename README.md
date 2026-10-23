@@ -488,4 +488,6 @@ For issues, questions, or suggestions:
 
 ---
 
-**Built with ❤️ using MERN Stack + Gemini AI**
+## Memory review rehearsal
+
+This temporary change checks whether Codity uses repository conventions.
